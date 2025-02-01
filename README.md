@@ -17,7 +17,7 @@ Visit the live application at: [Your Streamlit App URL will be here]
 
 1. Clone the repository:
 ```bash
-git clone [your-repo-url]
+git clone https://github.com/TheEMeraldNetwork/insurance-news-analysis.git
 cd insurance-news-analysis
 ```
 
@@ -51,4 +51,4 @@ insurance-news-analysis/
 ```
 
 ## Contributing
-Feel free to open issues or submit pull requests if you have suggestions for improvements. 
+Feel free to open issues or submit pull requests if you have suggestions for improvements.
